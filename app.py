@@ -221,10 +221,10 @@ if menu == "🏠 HOME":
     st.markdown("""
     <div style="text-align: center; padding: 2rem; background-color: #f8f9fa; border-radius: 10px;">
         <p style="font-size: 1.1rem; margin-bottom: 0.5rem;">
-            <strong>Dibuat oleh: [Nama Mahasiswa Anda]</strong>
+            <strong>Dibuat oleh: [M. Irfan Rahman] </strong>
         </p>
         <p style="color: #6c757d;">
-            NIM: [NIM Anda] | Program Studi: [Prodi Anda]
+            NIM: [24111007] | Program Studi: [Sistem Informasi]
         </p>
     </div>
     """, unsafe_allow_html=True)
@@ -610,4 +610,5 @@ st.markdown("""
     <p>© 2025 Universitas Nurdin Hamzah | Aplikasi Hitung Nilai Mahasiswa v1.0</p>
     <p>Dibuat dengan ❤️ menggunakan Streamlit & Supabase</p>
 </div>
+
 """, unsafe_allow_html=True)
